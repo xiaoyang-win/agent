@@ -1,4 +1,4 @@
-# 多应用 Agent 套件（申请 Token 版）
+# 多应用 Agent 套件
 
 本项目提供一个可直接运行的 `agent.py`，将一次代码变更扩展为多个应用场景，帮助你同时提升：
 
@@ -66,7 +66,7 @@ python agent.py --app all --base main --head HEAD --log-file docs/agent/usage_me
 - `qa` 应用：
   - `qa_pairs.json`
 
-## 4) Token 申请用指标模板
+## 4) 申请用指标模板
 
 你可以把以下表格按“天/周”记录，作为申请材料附件。
 
